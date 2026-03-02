@@ -1,17 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>RCUT - raycasting utility toolkit, an API based off of OpenGL's GLUT library<br>GP Project manager - A project manager system being coded in c++ QT API<br><br>👯 I’m looking to collaborate on<br>Any C, C++, C#, Rust, Python based systems<br><br>🌱 I’m currently learning<br>A level computer science, maths, physics<br>
 
-<!--
-**Ctrl-Subject/Ctrl-Subject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ctrl-Subject&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ctrl-Subject&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctrl-Subject&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoWidth=20&logoColor=white"/> <img src="https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoWidth=20&logoColor=white"/> 
+---
+[![](https://visitcount.itsvg.in/api?id=Ctrl-Subject&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
