@@ -3,4 +3,4 @@
 
 
 # 💻 Tech Stack:
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)"/>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
