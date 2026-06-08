@@ -4,7 +4,6 @@
 # 🔭 I’m currently working on<br>
 SolarStorm Game Engine - A 2.4, 2, and 3D game engine based off of RCUT<br>
 RCUT - raycasting utility toolkit, an API based off of OpenGL's GLUT library<br>
-GP Project manager - A project manager system being coded in c++ QT API<br>
 <br>
 
 # 👯 I’m looking to collaborate on<br>
