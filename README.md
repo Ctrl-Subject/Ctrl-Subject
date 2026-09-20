@@ -12,6 +12,8 @@ Any C, C++, C#, Python based systems<br>
 
 # 🌱 I’m currently learning<br>
 A level computer science, maths, physics<br>
+Linux Kernal<br>
+OpenGL<br>
 <br>
 
 ##  💻 Tech Stack:
