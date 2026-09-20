@@ -1,4 +1,5 @@
-## 💫 About Me:
+## 💫 About Me: <br>
+
 <br>
 
 # 🔭 I’m currently working on<br>
@@ -11,9 +12,13 @@ Any C, C++, C#, Python based systems<br>
 <br>
 
 # 🌱 I’m currently learning<br>
-A level computer science, maths, physics<br>
-Linux Kernal<br>
-OpenGL<br>
+A level computer science, maths, physics <br>
+Linux Kernal <br>
+OpenGL <br>
+<br>
+
+# 🔬 Current Research
+Currently I am researching Quinary Based Systems <br>
 <br>
 
 ##  💻 Tech Stack:
